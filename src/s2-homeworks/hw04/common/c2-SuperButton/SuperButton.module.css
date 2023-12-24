@@ -26,7 +26,9 @@
 color: #06C
 }
 
+.default {
 
+}
 
 .red {
     background-color: #CC1439
@@ -47,7 +49,9 @@ color: #06C
     background-color: #E5F0FA;
 }
 
+.default:hover {
 
+}
 .button:active {
     background-color: #0059B2;
 }
